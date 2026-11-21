@@ -83,17 +83,19 @@ Proyecto de automatización del flujo de solicitud de taxi en la aplicación Urb
 
 Proyecto final de formación enfocado en la evaluación funcional de Urban Scooter en sus plataformas web, móvil y API.
 
-**Actividades realizadas:**
-- Análisis de requisitos funcionales para identificar las condiciones de prueba.
-- Diseño y ejecución de listas de comprobación para las funcionalidades web, móviles y API.
-- Documentación de los resultados mediante los estados APROBADO y NO APROBADO.
-- Identificación, reproducción y documentación de errores en Jira.
-- Vinculación de los informes de errores con los resultados de las pruebas.
+**Actividades realizadas:**  
+- Análisis de requisitos funcionales para identificar las condiciones de prueba.  
+- Diseño y ejecución de listas de comprobación para las funcionalidades web, móviles y API.  
+- Documentación de los resultados mediante los estados APROBADO y NO APROBADO.  
+- Identificación, reproducción y documentación de errores en Jira.  
+- Vinculación de los informes de errores con los resultados de las pruebas.  
 - Preparación de la entrega final con evidencias y trazabilidad.
 
 **Áreas de prueba:** Web Testing, Mobile Testing y API Testing.
 
-**Documentación:** [Informe del proyecto Urban Scooter](docs/informe-final-pruebas-de-software.pdf)
+**Documentación:**  
+- [Informe final de pruebas de software (PDF)](docs/informe-final-pruebas-de-software.pdf)
+- [Matriz de pruebas: casos de prueba, listas de comprobación y resultados (Google Sheets)](https://docs.google.com/spreadsheets/d/1rsJoNr2Mgn743EkRf-aFnftiHXCC4NSWfNIBknD0Lpk/edit?gid=250601131#gid=250601131)
 
 ## Formación 📚
 
