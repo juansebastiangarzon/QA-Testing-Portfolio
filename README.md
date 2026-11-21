@@ -93,7 +93,7 @@ Proyecto final de formación enfocado en la evaluación funcional de Urban Scoot
 
 **Áreas de prueba:** Web Testing, Mobile Testing y API Testing.
 
-**Documentación:** [Informe del proyecto Urban Scooter](docs/Sprint-10-Urban-Scooter.pdf)
+**Documentación:** [Informe del proyecto Urban Scooter](docs/informe-final-pruebas-de-software.pdf)
 
 ## Formación 📚
 
